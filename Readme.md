@@ -43,10 +43,7 @@ Notes and recommendations
 - If a project contains a `requirements.txt` file, use it to install the exact dependencies for reproducibility.
 - For visualization-heavy projects, add a `results/` folder with sample outputs (images, GIFs) to the project folder  this helps reviewers quickly see results.
 
-Ideas to make this repo more attractive
-- Add a short `README.md` inside the top 4 projects with: project goal, dataset source, main notebook/script, and one-sentence results.
-- Add 23 representative screenshots (predictions, loss curves, generated samples) to the root README or the project folders.
-- Add an MIT `LICENSE` to encourage reuse.
+
 
 Contributing
 - Want to contribute? Open an issue describing the change or create a focused pull request. Please include a short README for new projects and a note about how you tested changes.
