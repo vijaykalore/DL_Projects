@@ -26,16 +26,16 @@ Quick start
    jupyter lab
 
 Project index (open the folder name in this repo)
-- Project 01 ( Breast Cance Classification with NN ) — breast cancer classification with a simple dense NN.
-- Project 02 ( MNIST Digit classification using NN ) — baseline dense network on MNIST digits.
+- Project 01 ( Breast Cance Classification with NN )  breast cancer classification with a simple dense NN.
+- Project 02 ( MNIST Digit classification using NN )  baseline dense network on MNIST digits.
 - Project 03 ( Dog vs Cat Classification Transfer Learning )  transfer learning with pretrained CNN backbones.
 - Project 04 ( CIFAR 10 Object Recognition using ResNet50 )  ResNet50-based classifier on CIFAR-10.
 - Project 05 ( Face Mask Detection using CNN )  real-time face mask detector with CNN.
 - Project 06 ( Fashion MNIST end-to-end Project )  EDA and classification on Fashion-MNIST.
 - Project 07 ( Plant Disease Prediction CNN Deep Leanring Project )  plant leaf disease classifier.
 - Project 08 ( Neural Network using PyTorch Breast Cancer Prediction )  PyTorch implementation for breast cancer.
-- Project 09 ( Generate Handwritten Digit Images DCGAN ) — DCGAN for handwritten digit generation.
-- Project 10 ( IMDB reviews Sentiment Analysis LSTM ) — LSTM-based sentiment classifier on IMDB.
+- Project 09 ( Generate Handwritten Digit Images DCGAN )  DCGAN for handwritten digit generation.
+- Project 10 ( IMDB reviews Sentiment Analysis LSTM )  LSTM-based sentiment classifier on IMDB.
 - Extra Learning Notebooks  supplementary experiments and notes.
 
 Notes and recommendations
